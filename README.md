@@ -22,9 +22,9 @@ Hey there! I'm Saquib Mansuri, a caffeine-fueled DevOps Engineer, Cloud Architec
 
 🌍 Current Role: DevOps Engineer & Cloud Architect  
 📈 Freelancer Extraordinaire  
-💡 Always Learning: Ansible, Jenkins, Puppet, and why my last pipeline worked perfectly on the first try… (hint: it didn't)
+💡 Always Learning: DevOps, security, application development and why my last pipeline worked perfectly on the first try… (hint: it didn't)
 
-When I’m not tinkering with **cloud architectures** and **CI/CD pipelines**, I’m diving into mobile app dev, JavaScript, and the latest tech trends. So if you're here for some solid DevOps banter, pull up a terminal – we’re just getting started!
+When I’m not tinkering with **cloud architectures** and **CI/CD pipelines**, I’m diving into mobile app dev, web development, and the latest tech trends. So if you're here for some solid DevOps banter, pull up a terminal – we’re just getting started!
 
 <h2> 🚀 Technologies & Tools</h2>
 <p align="left">
