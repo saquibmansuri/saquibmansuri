@@ -18,17 +18,20 @@
 
 <h2> 👨‍💻 About Me</h2>
 
-Hey there! I'm Saquib Mansuri, a caffeine-fueled DevOps Engineer, Cloud Architect and Freelancer with an insatiable drive for automation and optimization. My mission? To automate myself right out of a job… so I can relax until the next big project, of course!!
+Hey there! I'm Saquib, a caffeine-fueled DevOps Engineer, Cloud Architect, Software Developer and Freelancer with an insatiable drive for technology.
 
-🌍 Current Role: DevOps Engineer & Cloud Architect  
+🌍 Current Role: SDE - DevOps Engineer  
 📈 Freelancer Extraordinaire  
 💡 Always Learning: DevOps, security, application development and why my last pipeline worked perfectly on the first try… (hint: it didn't)
 
-When I’m not tinkering with **cloud architectures** and **CI/CD pipelines**, I’m diving into mobile app dev, web development, and the latest tech trends. So if you're here for some solid DevOps banter, pull up a terminal – we’re just getting started!
+When I’m not tinkering with **cloud architectures** and **CI/CD pipelines**, I’m diving into mobile app dev, web development, and the latest trends.
 
 <h2> 🚀 Technologies & Tools</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://th.bing.com/th/id/ODLS.f3b8e2a7-85af-4417-a687-2b9f7a1b1a82?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" alt="Nextjs" width="45" height="45"/>
+  <img src="https://th.bing.com/th/id/OSAAS.7B63148927E97D10F7FB309DA6AF94EF?w=72&h=72&c=17&rs=1&o=6&dpr=2&pid=TechQna" alt="Nodejs" width="45" height="45"/>
+  <img src="https://th.bing.com/th/id/ODLS.b263dd26-cb05-4d1e-8aa7-f2b351dc3b9f?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" alt="Apache Airflow" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
@@ -58,10 +61,10 @@ When I’m not tinkering with **cloud architectures** and **CI/CD pipelines**, I
 
 <h2> 🌱 Currently Exploring</h2>
 <p>
-  Diving deep into **Ansible**, **Puppet**, **Jenkins**, and **JavaScript** to keep my toolkit fresh and powerful. The goal? To make the DevOps process as smooth as my coffee, and trust me – I don't compromise on coffee.
+  Diving deep into **Nodejs**, **Nextjs**, **Rust**, and **JavaScript** to keep my toolkit fresh and powerful.
 </p>
 
 <h2> 💬 Let's Connect!</h2>
 <p>
-  Whether you're here to chat about automation, brainstorm deployment strategies, or just want to know why your bash script threw that “unexpected token” error (we’ve all been there), let's connect and build something groundbreaking together!
+  Whether you're here to chat about automation, brainstorm app development/deployment strategies, or just want to know why your terminal threw that unexpected error, let's connect and build something groundbreaking together!
 </p>
