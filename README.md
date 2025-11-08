@@ -17,12 +17,6 @@
   <a href="mailto:saquibmansuri@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="tel:+917737879079" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
-  </a>
-  <a href="https://github.com/saquibmansuri/saquibmansuri/blob/main/personal-portfolio/assets/pdfs/SaquibMansuri-Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
-  </a>
 </div>
 
 <h2> 👨‍💻 About Me</h2>
