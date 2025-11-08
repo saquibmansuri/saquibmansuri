@@ -9,22 +9,32 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/saquibmansuri?t=afAvHPDIdP78BiZU75C_EA&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://www.youtube.com/@saquibmansuri5905" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="mailto:saquibmansuri@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="tel:+917737879079" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
+  </a>
+  <a href="https://github.com/saquibmansuri/saquibmansuri/personal-portfolio/assets/pdfs/SaquibMansuri-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
 
 <h2> 👨‍💻 About Me</h2>
 
-Hey there! I'm Saquib, a caffeine-fueled DevOps Engineer, Cloud Architect, Software Developer and Freelancer with an insatiable drive for technology.
+I’m a Multi-Cloud Solutions Architect and DevOps Engineer passionate about designing optimized, scalable, secure, and resilient cloud infrastructures that enable businesses to focus on what truly matters - building great products.
 
-🌍 Current Role: SDE - DevOps Engineer  
-📈 Freelancer Extraordinaire  
-💡 Always Learning: DevOps, security, application development and why my last pipeline worked perfectly on the first try… (hint: it didn't)
+High traffic? Tight budgets? No problem, I keep it fast, stable and cost-efficient without burning a hole in your pocket.
 
-When I’m not tinkering with **cloud architectures** and **CI/CD pipelines**, I’m diving into mobile app dev, web development, and the latest trends.
+Every day, my focus is on building calm from chaos, pipelines that deliver without disruption, observability that spots issues early, and deployments that run seamlessly, keeping systems and minds alike
+GREEN
+
+Outside the cloud world, you’ll find me exploring web and mobile app development with a cup of coffee, testing out emerging tech, and building side projects that keeps me curious and inspired.
 
 <h2> 🚀 Technologies & Tools</h2>
 <p align="left">
@@ -51,17 +61,15 @@ When I’m not tinkering with **cloud architectures** and **CI/CD pipelines**, I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Development" width="45" height="45"/>
-  <img src="https://try-and-trash.com/content/images/2024/07/bicep-cover.png" alt="Azure Bicep" width="45" height="45"/>
   <img src="https://weap.io/img/hetzner-logo-small.png" alt="Hetzner Cloud" width="45" height="45"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYvKCMGMi72gzrSdTZmH8wsF_wxSRLq599g&s" alt="CI/CD PIpelines" width="45" height="45"/>
-  <img src="https://www.puppet.com/sites/default/themes/custom/puppet/logo.svg" alt="Puppet" width="45" height="45"/>
   <img src="https://d1l5pp53ux74mz.cloudfront.net/images/cheflibraries/logos/progress-chef-primary-logo-svg.svg?sfvrsn=5865c2aa_3" alt="Chef" width="45" height="45"/>
 
 </p>
 
 <h2> 🌱 Currently Exploring</h2>
 <p>
-  Diving deep into **Nodejs**, **Nextjs**, **Rust**, and **JavaScript** to keep my toolkit fresh and powerful.
+  Diving deep into DevSecOps, ML-Ops, Mobile App Dev & System Design to keep my toolkit fresh and powerful.
 </p>
 
 <h2> 💬 Let's Connect!</h2>
