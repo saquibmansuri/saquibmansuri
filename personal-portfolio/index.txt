@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Saquib Mansuri
 Saquib Mansuri
-DevOps Engineer & Cloud Architect
+DevOps Engineer & Solutions Architect
 
 Show Contacts
 
