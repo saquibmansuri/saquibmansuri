@@ -120,6 +120,21 @@ for (let i = 0; i < formInputs.length; i++) {
   });
 }
 
+// handle form submission - open email client
+form.addEventListener("submit", function (e) {
+  e.preventDefault();
+  const fullname = this.querySelector('[name="fullname"]').value;
+  const email = this.querySelector('[name="email"]').value;
+  const message = this.querySelector('[name="message"]').value;
+
+  const mailtoLink = `mailto:saquibmansuri@gmail.com?subject=Contact from ${encodeURIComponent(
+    fullname
+  )}&body=${encodeURIComponent(
+    `Name: ${fullname}\nEmail: ${email}\n\nMessage:\n${message}`
+  )}`;
+  window.location.href = mailtoLink;
+});
+
 // page navigation variables
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
 const pages = document.querySelectorAll("[data-page]");
